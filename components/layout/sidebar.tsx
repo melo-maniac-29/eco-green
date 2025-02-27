@@ -16,7 +16,8 @@ import {
   Menu, 
   Recycle, 
   Trophy, 
-  User 
+  User,
+  QrCode   
 } from "lucide-react";
 
 interface SidebarProps extends React.HTMLAttributes<HTMLDivElement> {
@@ -78,10 +79,10 @@ export function Sidebar({ className }: SidebarProps) {
       active: pathname === "/leaderboard",
     },
     {
-      label: "Statistics",
-      icon: BarChart3,
-      href: "/statistics",
-      active: pathname === "/statistics",
+      label: "Scan QR",
+      icon: QrCode,
+      href: "/scan-qr",
+      active: pathname === "/scan-qr",
     },
   ];
 
