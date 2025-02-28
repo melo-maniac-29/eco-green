@@ -20,7 +20,7 @@ export default function LoginPage() {
     <div className="flex min-h-screen flex-col items-center justify-center bg-muted">
       <Link href="/" className="absolute top-8 left-8 flex items-center">
         <Leaf className="h-6 w-6 text-green-600" />
-        <span className="text-xl font-bold ml-2">EcoTrack</span>
+        <span className="text-xl font-bold ml-2">Campus-Green</span>
       </Link>
       <div className="w-full max-w-md px-4">
         <LoginForm />

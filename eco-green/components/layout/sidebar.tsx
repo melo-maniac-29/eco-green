@@ -95,7 +95,7 @@ export function Sidebar({ className }: SidebarProps) {
       <div className="px-3 py-4">
         <Link href="/" className="flex items-center pl-3 mb-6">
           <Leaf className="h-6 w-6 text-green-600" />
-          <span className="text-xl font-bold ml-2">EcoTrack</span>
+          <span className="text-xl font-bold ml-2">Campus-Green</span>
         </Link>
         <div className="space-y-1">
           {isLoggedIn ? (

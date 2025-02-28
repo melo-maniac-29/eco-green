@@ -8,7 +8,7 @@ import { ConvexClientProvider } from "./ConvexClientProvider";
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'EcoTrack - Environmental Sustainability',
+  title: 'Campus-Green',
   description: 'Track and contribute to environmental sustainability efforts',
 };
 

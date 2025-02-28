@@ -115,7 +115,7 @@ export default function Home() {
                 <span className="text-lg font-bold">Campus-Green</span>
               </div>
               <p className="text-sm text-muted-foreground">
-                © 2025 EcoTrack. All rights reserved.
+                © 2025 Campus-Green. All rights reserved.
               </p>
             </div>
           </div>
