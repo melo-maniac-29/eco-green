@@ -112,7 +112,7 @@ export default function Home() {
             <div className="flex flex-col items-center justify-center space-y-4 text-center">
               <div className="flex items-center space-x-2">
                 <Leaf className="h-6 w-6 text-green-600" />
-                <span className="text-lg font-bold">EcoTrack</span>
+                <span className="text-lg font-bold">Campus-Green</span>
               </div>
               <p className="text-sm text-muted-foreground">
                 © 2025 EcoTrack. All rights reserved.
